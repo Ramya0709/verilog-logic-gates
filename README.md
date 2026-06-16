@@ -1,5 +1,5 @@
 # Verilog Implementation of Basic Logic Gates
-
+This repository contains Verilog implementations of basic logic gates along with their truth tables and gate symbols.
 
 ## AND Gate
 Outputs 1 only when all inputs are 1.
